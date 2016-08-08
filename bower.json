@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zackluckyf <'fanning.34@gmail.com'>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zackluckyf/template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
